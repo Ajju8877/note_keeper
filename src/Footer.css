@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+background-color: #eee;
+}
+.footer{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  color: #aaa;
+  padding: 5px;
+  }
+  
